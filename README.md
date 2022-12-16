@@ -1,5 +1,4 @@
-# Sistema de cadastro de jogos
-> Status do projeto: Em desenvolvimento
+# Projeto Curso Git e Github - Alura
 
 Para rodar esse projeto na sua máquina, digite:
 
